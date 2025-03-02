@@ -1,5 +1,5 @@
 # Skylar's Modpacks
-These are modpacks created by Skylar (aka me). I spent a few years making them and, I think they're pretty good. I started making a Fabric modpack in version 1.20.1 (unfortunately, I lost all of my previous versions due to me installing Windows 10 on my old PC (a late-2014 Mac mini btw)), and I've been updating my modlist, making NeoForge and QuiltMC modpacks, and getting all of the mods that I like up and running on *most* of the mod loaders.
+These are modpacks created by Skylar (aka me). I spent a few years making them and, I think they're pretty good. I started making a Fabric modpack in version 1.20.1 (unfortunately, I lost all of my previous versions due to me installing Windows 10 on my old PC (a late-2014 Mac mini btw)), and I've been updating my modlist, making NeoForge modpacks, and getting all of the mods that I like up and running on *most* of the mod loaders.
 
 ## Mod and Texture Pack List (Fabric and Sodium Edition 1.21.4)
 
