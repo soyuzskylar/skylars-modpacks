@@ -1,142 +1,142 @@
-Mod and Texture Pack List (Fabric and Sodium Edition 1.21.4)
-Mods
+## Mod and Texture Pack List (Fabric and Sodium Edition 1.21.4)
 
-    Entity Model Features
-    Entity Texture Features
-    3D Skin Layers
-    AppleSkin
-    Architectury API
-    BactroMod
-    BadOptimizations
-    Better Mount HUD
-    Capes
-    Chat Heads
-    Cloth Config API
-    Concurrent Chunk Management Engine
-    Cubes Without Borders
-    Dynamic Crosshair
-    Dynamic FPS
-    Entity Culling
-    Fabric API
-    Fabric Language Kotlin
-    Fabrishot
-    FastQuit
-    Female Gender Mod
-    FerriteCore
-    FPS Overlay
-    Freelook
-    Gamma Utils
-    Immediately Fast
-    Iris Shaders
-    Journey Map
-    JourneyMap Web Map
-    Konkrete
-    Language Reload
-    Lithium
-    Melody
-    MidnightLib
-    MinecraftCapes (the Capes mod is broken right now, for whatever reason)
-    Mod Menu
-    ModernFix
-    More Chat History
-    More Culling
-    No Chat Reports
-    Noisium
-    OptiGUI
-    owo-lib
-    Polytone
-    Reese's Sodium Options
-    REI
-    Sodium
-    Sodium Extra
-    Text Placeholder API
-    ThreadTweak
-    Toro's Auto Attack
-    Toro's Auto Mine
-    Very Many Players
-    YetAnotherConfigLib
-    Your Options Shall Be Respected
-    Zergatul's Freecam
-    Zoomify
+### Mods
+- Entity Model Features
+- Entity Texture Features
+- 3D Skin Layers
+- AppleSkin
+- Architectury API
+- BactroMod
+- BadOptimizations
+- Better Mount HUD
+- Capes
+- Chat Heads
+- Cloth Config API
+- Concurrent Chunk Management Engine
+- Cubes Without Borders
+- Dynamic Crosshair
+- Dynamic FPS
+- Entity Culling
+- Fabric API
+- Fabric Language Kotlin
+- Fabrishot
+- FastQuit
+- Female Gender Mod
+- FerriteCore
+- FPS Overlay
+- Freelook
+- Gamma Utils
+- Immediately Fast
+- Iris Shaders
+- Journey Map
+- JourneyMap Web Map
+- Konkrete
+- Language Reload
+- Lithium
+- Melody
+- MidnightLib
+- MinecraftCapes (the Capes mod is broken right now, for whatever reason)
+- Mod Menu
+- ModernFix
+- More Chat History
+- More Culling
+- No Chat Reports
+- Noisium
+- OptiGUI
+- owo-lib
+- Polytone
+- Reese's Sodium Options
+- REI
+- Sodium
+- Sodium Extra
+- Text Placeholder API
+- ThreadTweak
+- Toro's Auto Attack
+- Toro's Auto Mine
+- Very Many Players
+- YetAnotherConfigLib
+- Your Options Shall Be Respected
+- Zergatul's Freecam
+- Zoomify
 
-Texture Packs
+### Texture Packs
+- Cubic Sun & Moon
+- enderwoman+
+- Even Better Enchants
+- Faithful 64x
+- Faithful 64x AppleSkin Addon
+- Faithful Java 64x Dark Mode UI
+- Fast Better Grass
+- Translations for Sodium
 
-    Cubic Sun & Moon
-    enderwoman+
-    Even Better Enchants
-    Faithful 64x
-    Faithful 64x AppleSkin Addon
-    Faithful Java 64x Dark Mode UI
-    Fast Better Grass
-    Translations for Sodium
 
-Mod and Texture Pack List (Fabric and VulkanMod Edition 1.21.4)
-Mods
 
-    Entity Model Features
-    Entity Texture Features
-    3D Skin Layers
-    AppleSkin
-    Architectury API
-    BactroMod
-    BadOptimizations
-    Better Mount HUD
-    Capes
-    Chat Heads
-    Cloth Config API
-    Concurrent Chunk Management Engine
-    Cubes Without Borders
-    Dynamic Crosshair
-    Dynamic FPS
-    Entity Culling
-    Fabric API
-    Fabric Language Kotlin
-    Fabrishot
-    FastQuit
-    Female Gender Mod
-    FerriteCore
-    FPS Overlay
-    Freelook
-    Gamma Utils
-    Immediately Fast
-    Iris Shaders
-    Journey Map
-    JourneyMap Web Map
-    Konkrete
-    Language Reload
-    Lithium
-    Melody
-    MidnightLib
-    MinecraftCapes (the Capes mod is broken right now, for whatever reason)
-    Mod Menu
-    ModernFix
-    More Chat History
-    More Culling
-    No Chat Reports
-    Noisium
-    OptiGUI
-    owo-lib
-    Polytone
-    Reese's Sodium Options
-    REI
-    Sodium
-    Sodium Extra
-    Text Placeholder API
-    ThreadTweak
-    Toro's Auto Attack
-    Toro's Auto Mine
-    Very Many Players
-    YetAnotherConfigLib
-    Your Options Shall Be Respected
-    Zergatul's Freecam
-    Zoomify
+## Mod and Texture Pack List (Fabric and VulkanMod Edition 1.21.4)
 
-Texture Packs
+### Mods
+- Entity Model Features
+- Entity Texture Features
+- 3D Skin Layers
+- AppleSkin
+- Architectury API
+- BactroMod
+- BadOptimizations
+- Better Mount HUD
+- Capes
+- Chat Heads
+- Cloth Config API
+- Concurrent Chunk Management Engine
+- Cubes Without Borders
+- Dynamic Crosshair
+- Dynamic FPS
+- Entity Culling
+- Fabric API
+- Fabric Language Kotlin
+- Fabrishot
+- FastQuit
+- Female Gender Mod
+- FerriteCore
+- FPS Overlay
+- Freelook
+- Gamma Utils
+- Immediately Fast
+- Iris Shaders
+- Journey Map
+- JourneyMap Web Map
+- Konkrete
+- Language Reload
+- Lithium
+- Melody
+- MidnightLib
+- MinecraftCapes (the Capes mod is broken right now, for whatever reason)
+- Mod Menu
+- ModernFix
+- More Chat History
+- More Culling
+- No Chat Reports
+- Noisium
+- OptiGUI
+- owo-lib
+- Polytone
+- Reese's Sodium Options
+- REI
+- Sodium
+- Sodium Extra
+- Text Placeholder API
+- ThreadTweak
+- Toro's Auto Attack
+- Toro's Auto Mine
+- Very Many Players
+- YetAnotherConfigLib
+- Your Options Shall Be Respected
+- Zergatul's Freecam
+- Zoomify
 
-    Cubic Sun & Moon
-    enderwoman+
-    Even Better Enchants
-    Faithful 64x
-    Faithful 64x AppleSkin Addon
-    Faithful Java 64x Dark Mode UI
-    Fast Better Grass
+### Texture Packs
+- Cubic Sun & Moon
+- enderwoman+
+- Even Better Enchants
+- Faithful 64x
+- Faithful 64x AppleSkin Addon
+- Faithful Java 64x Dark Mode UI
+- Fast Better Grass
