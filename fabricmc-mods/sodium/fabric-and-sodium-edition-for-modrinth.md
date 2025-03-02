@@ -1,4 +1,4 @@
-# Skylar's Modpack (Fabric and Sodium)
+# Skylar's Modpack (Fabric and Sodium) (Modrinth Version)
 This is a Fabric modpack created by Skylar (aka me). I spent a few years making this modpack and, I think its pretty good. I started making it in version 1.20.1 (unfortunately, I lost all of my previous versions due to me installing Windows 10 on my old PC (a late-2014 Mac mini btw)), and I've been updating my modlist and getting all of the mods that I like up and running.
 
 ## Mod and Texture Pack List
@@ -27,6 +27,7 @@ This is a Fabric modpack created by Skylar (aka me). I spent a few years making 
 - Female Gender Mod
 - FerriteCore
 - FPS Overlay
+- Freecam by Hashlite (Modrinth version only)
 - Freelook
 - Gamma Utils
 - Immediately Fast
@@ -59,7 +60,7 @@ This is a Fabric modpack created by Skylar (aka me). I spent a few years making 
 - Very Many Players
 - YetAnotherConfigLib
 - Your Options Shall Be Respected
-- Zergatul's Freecam
+- Zergatul's Freecam (CurseForge version only)
 - Zoomify
 
 ### Texture Packs
